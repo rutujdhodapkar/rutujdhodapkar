@@ -9,7 +9,6 @@ I am **Rutuj Dhodapkar**, a tech developer and aspiring professional focused on 
 ## 🛠️ Skills & Expertise:
 - **Artificial Intelligence & Machine Learning**: Building intelligent systems and innovative models.  
 - **Deep Learning**: Creating neural networks to solve complex problems.  
-- **Cloud Computing**: Proficient in platforms like AWS, Azure, and GCP.  
 - **Big Data Analysis**: Extracting valuable insights from massive datasets.  
 - **Network Security**: Designing secure systems for reliable operations.  
 
@@ -18,7 +17,7 @@ I am **Rutuj Dhodapkar**, a tech developer and aspiring professional focused on 
 ## 🌟 Current Focus:
 - Developing next-generation AI algorithms/models to tackle real-world challenges.  
 - Expertise in **Deep Learning**.  
-- Working on scalable cloud-based projects using **AWS**.  
+- Working on scalable cloud-based projects.  
 
 ---
 
@@ -36,3 +35,5 @@ I am **Rutuj Dhodapkar**, a tech developer and aspiring professional focused on 
 ---
 
 ### 🚀 "The future belongs to those who innovate relentlessly."
+
+
