@@ -28,13 +28,10 @@ I am **Rutuj Dhodapkar**, a tech developer and aspiring professional focused on 
 ---
 
 ## 📫 How to Reach Me:
-- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/rutuj-dhodapkar-80bb5424a)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rutuj-dhodapkar-80bb5424a/)
 - **Email**: [Email Address](rutujdhodapkar@gmail.com)  
 - **Portfolio**: [Portfolio Link](rutujdhodapkar.netlify.app)  
 
 ---
 
-### 🚀 "The future belongs to those who innovate relentlessly."
-
-![Description](https://github.com/user/repo/raw/main/image.png)
 
