@@ -17,7 +17,7 @@ I am **Rutuj Dhodapkar**, a tech developer and aspiring professional focused on 
 
 ## 🌟 Current Focus:
 - Developing next-generation AI algorithms/models to tackle real-world challenges.  
-- Expertise in **Deep Learning**.  
+- Learning **Deep Learning**.  
 - Working on scalable cloud-based projects.  
 
 ---
