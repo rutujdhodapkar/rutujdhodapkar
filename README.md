@@ -31,7 +31,8 @@ I am **Rutuj Dhodapkar**, a tech developer and aspiring professional focused on 
 ## 📫 How to Reach Me:
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rutuj-dhodapkar-80bb5424a/)
 - **Email**: [Email Address](rutujdhodapkar@gmail.com)  
-- **Portfolio**: [Portfolio Link](rutujdhodapkar.netlify.app)  
+- **Portfolio**: [Portfolio Link](rutujdhodapkar.netlify.app)
+- **X**: [x profile](https://x.com/RutujDhodapkar)
 
 ---
 ⚡ Fun Fact: I’d probably sign up for the first Mars colony if it came with a stable WiFi connection. 🛸
