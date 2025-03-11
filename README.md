@@ -2,7 +2,7 @@
 
 ### Hey there, I'm Rutuj Dhodapkar!
 
-I am **Rutuj Dhodapkar**, a tech developer and aspiring professional focused on **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and cutting-edge technologies. I am driven by a passion for innovation, problem-solving, and building solutions that make a lasting impact.
+I am **Rutuj Dhodapkar**, a tech developer and aspiring professional focused on **Artificial Intelligence (AI)**, **Machine Learning (ML), Deep Learning(DL)**, and cutting-edge technologies. I am driven by a passion for innovation, problem-solving, and building solutions that make a lasting impact.
 
 ---
 
