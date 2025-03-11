@@ -33,6 +33,7 @@ I am **Rutuj Dhodapkar**, a tech developer and aspiring professional focused on 
 - **Email**: [Email Address](rutujdhodapkar@gmail.com)  
 - **Portfolio**: [Portfolio Link](rutujdhodapkar.netlify.app)
 - **X**: [x profile](https://x.com/RutujDhodapkar)
+- **Instagram**:[Instagram profile](https://www.instagram.com/rutujdhodapkar/)
 
 ---
 ⚡ Fun Fact: I’d probably sign up for the first Mars colony if it came with a stable WiFi connection. 🛸
